@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\bin\Debug\net7.0\PhaseEndProject.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\bin\Debug\net7.0\PhaseEndProject.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\bin\Debug\net7.0\PhaseEndProject.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\bin\Debug\net7.0\PhaseEndProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\bin\Debug\net7.0\PhaseEndProject.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\refint\PhaseEndProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\PhaseEndProject.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\PhaseEndProject\PhaseEndProject\obj\Debug\net7.0\ref\PhaseEndProject.dll
